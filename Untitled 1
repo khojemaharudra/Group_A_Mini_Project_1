@@ -1,0 +1,72 @@
+1) Which of the following is not a Java features?
+
+a.Dynamic
+b.Architecture Neutral
+c.Use of pointers =
+d.Object-oriented
+
+2)is used to find and fix bugs in the Java programs.
+
+a.JVM
+b.JRE
+c.JDK
+d.JDB =
+
+3) Which of the following is a valid declaration of a char?
+
+a.char ch = '\utea'; =
+b.char ca = 'tea';
+c.char cr = \u0223;
+d.char cc = '\itea'
+
+4) What is the return type of the hashCode() method in the Object class?
+
+a.Object
+b.int =
+c.long
+d.void
+
+5) Which of the following is a valid long literal?
+
+a.ABH8097
+b.L990023
+c.904423
+d.0xnf029L =
+
+6) What does the expression float a = 35 / 0 return?
+
+a.0
+b.Not a Number
+c.Infinity =
+d.Run time exception
+
+7)Which of the following is a marker interface?
+
+a.Runnable interface
+b.Remote interface =
+c.Readable interface
+d.Result interface
+
+8) Which of the following is true about the anonymous inner class?
+
+a.It has only methods
+b.Objects can't be created
+c.It has a fixed class name
+d.It has no class name =
+
+9) Which package contains the Random class?
+
+a.java.util package =
+b.java.lang package
+c.java.awt package
+d.java.io package
+
+10) An interface with no fields or methods is known as a.
+
+a.Runnable Interface
+b.Marker Interface =
+c.Abstract Interface
+d.CharSequence Interface
+
+
+
